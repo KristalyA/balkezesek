@@ -1,0 +1,8 @@
+C:\Git2\test\balkezesek\balkezesek\bin\Debug\balkezesek.exe.config
+C:\Git2\test\balkezesek\balkezesek\bin\Debug\balkezesek.exe
+C:\Git2\test\balkezesek\balkezesek\bin\Debug\balkezesek.pdb
+C:\Git2\test\balkezesek\balkezesek\obj\Debug\balkezesek.csproj.AssemblyReference.cache
+C:\Git2\test\balkezesek\balkezesek\obj\Debug\balkezesek.csproj.SuggestedBindingRedirects.cache
+C:\Git2\test\balkezesek\balkezesek\obj\Debug\balkezesek.csproj.CoreCompileInputs.cache
+C:\Git2\test\balkezesek\balkezesek\obj\Debug\balkezesek.exe
+C:\Git2\test\balkezesek\balkezesek\obj\Debug\balkezesek.pdb
